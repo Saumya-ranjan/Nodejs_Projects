@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_projects",
+  "version": "1.0.0",
+  "description": "This are some of my training backend applications i will be building.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya-ranjan/Nodejs_Projects.git"
+  },
+  "author": "Saumyaranjan Parida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saumya-ranjan/Nodejs_Projects/issues"
+  },
+  "homepage": "https://github.com/Saumya-ranjan/Nodejs_Projects#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
